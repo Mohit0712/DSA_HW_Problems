@@ -1,2 +1,3 @@
-# C
-DSA_in_C_language
+Data Structures And Algorithm
+Using C Language
+HW Problems
